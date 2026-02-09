@@ -149,6 +149,7 @@ All models save results in a unified format:
 
 ---
 
+## Citation
 ```bibtex
 @article{xu2025scunified,
   title={scUnified: An AI-Ready Standardized Resource for Single-Cell RNA Sequencing Analysis},
